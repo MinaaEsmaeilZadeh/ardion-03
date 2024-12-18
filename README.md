@@ -25,7 +25,7 @@
  ![blink_circit](/Media/LED.jpg)
 
 > ## Board
- ![blink_circit](/Media/Board.jpg)
+ ![[blink_circit](/Media/Board.jpg](https://raw.githubusercontent.com/MinaaEsmaeilZadeh/ardion-03/e8077516617854003e19b2a2c5387621045fc106/Board.jpg))
 
 > ## Resistance
  ![blink_circit](/Media/Resistance.jpg)

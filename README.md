@@ -28,7 +28,7 @@
  ![(/Media/Board.jpg](https://raw.githubusercontent.com/MinaaEsmaeilZadeh/ardion-03/e8077516617854003e19b2a2c5387621045fc106/Board.jpg)
 
 > ## Resistance
- ![(/Media/Resistance.jpg](https://github.com/MinaaEsmaeilZadeh/ardion-03/blob/main/Resistance.jpg?raw=true).
+ ![(/Media/Resistance.jpg](https://github.com/MinaaEsmaeilZadeh/ardion-03/blob/main/Resistance.jpg?raw=true)
 ---
 
 ## عملکرد مدار با تناوب 1 ثانیه و روشن و خاموش شدن همزمان

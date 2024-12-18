@@ -19,7 +19,7 @@
  ![blink_circit](/Media/Micro.jpg) 
 
 > ## Wire
- ![blink_circit](/Media/Wire.jpg)
+ ![(/Media/Wire.jpg)](https://github.com/MinaaEsmaeilZadeh/ardion-03/blob/main/Wire.jpg?raw=true)
 
  > ## LED
  ![(/Media/LED.jpg](https://github.com/MinaaEsmaeilZadeh/ardion-03/blob/main/LED.jpg?raw=true).

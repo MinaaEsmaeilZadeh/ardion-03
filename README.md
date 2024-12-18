@@ -16,7 +16,7 @@
 | 5           | مقاومت  |   2    |
 
 > ## Microprocessor
- ![blink_circit](/Media/Micro.jpg) 
+ ![(/Media/Micro.jpg)](https://github.com/MinaaEsmaeilZadeh/ardion-03/blob/main/Micro.jpg?raw=true) 
 
 > ## Wire
  ![(/Media/Wire.jpg)](https://github.com/MinaaEsmaeilZadeh/ardion-03/blob/main/Wire.jpg?raw=true)
